@@ -44,8 +44,9 @@ Descomprime el archivo.
 
 ## 3. Crear y activar un entorno virtual  
 ```bash
-python -m venv mmarn
-mmarn\Scripts\activate
+cmd
+# python -m venv mmarn
+# mmarn\Scripts\activate
 ```
 
 ## 4. Actualizar pip
@@ -70,5 +71,7 @@ pip install h5netcdf
 ```bash
 jupyter notebook
 ```
+Google Colaboratory
+https://colab.google/
 
 Abre los archivos `.ipynb` dentro de la carpeta **espanol**.
