@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="images/kr.png" width="80">
-  <img src="images/do.png" width="80">
+  <img src="images/kr.png" width="50">
+  <img src="images/do.png" width="50">
 </p>
 
 <p align="center">
   <!-- 기관 로고 -->
-  <img src="images/minpre.png" height="45">
-  <img src="images/mmarn.png" height="45">
-  <img src="images/korea.png" height="45">
-  <img src="images/koica.png" height="45">
-  <img src="images/knps.png" height="45">
-  <img src="images/gdc.png" height="45">
+  <img src="images/minpre.png" height="35">
+  <img src="images/mmarn.png" height="25">
+  <img src="images/korea.png" height="30">
+  <img src="images/koica.png" height="25">
+  <img src="images/knps.png" height="25">
+  <img src="images/gdc.png" height="25">
 </p>
 
 Python 3.13.6
