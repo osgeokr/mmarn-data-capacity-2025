@@ -19,7 +19,10 @@
 **Fechas:** Del 18 al 19 de nov. de 2025  
 **Lugar:** [Universidad Nacional Pedro Henríquez Ureña (UNPHU)](https://unphu.edu.do/), Aula 109 del Edificio 2
 
----
+**Byeong-Hyeok Yu** Analista de Datos Espaciales (Correo: bhyu@knps.or.kr)  
+- Director del Centro de Cooperación Internacional para el Desarrollo (KNPS-IDCC)
+- Miembro de la Carta de la Open Source Geospatial Foundation (OSGeo)
+- Director de la Korean Society of Environment & Ecology (KSEE)  
 
 ## Contenidos del Curso
 
