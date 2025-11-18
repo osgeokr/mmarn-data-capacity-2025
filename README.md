@@ -17,7 +17,7 @@
 # Práctica de uso de datos en Python
 ## Análisis y Visualización de Datos Climáticos (Avanzado)  
 **Fechas:** Del 18 al 19 de nov. de 2025  
-**Lugar:** Aula 109 del Edificio 2  
+**Lugar:** [Universidad Nacional Pedro Henríquez Ureña (UNPHU)](https://unphu.edu.do/), Aula 109 del Edificio 2
 
 ---
 
