@@ -48,14 +48,17 @@ Descomprime el archivo.
 ```bash
 python -m venv mmarn
 mmarn\Scripts\activate
+```
 
 ## 4. Actualizar pip
 ```bash
 python.exe -m pip install --upgrade pip
+```
 
 ## 5. Instalar Jupyter Notebook
 ```bash
 pip install notebook
+```
 
 ## 6. Instalar dependencias necesarias
 ```bash
@@ -63,9 +66,11 @@ pip install leafmap
 pip install xarray rioxarray netcdf4 localtileserver
 pip install pystac-client planetary-computer
 pip install h5netcdf
+```
 
 ## 7. Ejecutar Jupyter Notebook
 ```bash
 jupyter notebook
+```
 
 Abre los archivos `.ipynb` dentro de la carpeta **espanol**.
