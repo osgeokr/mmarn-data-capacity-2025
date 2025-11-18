@@ -4,13 +4,12 @@
 </p>
 
 <p align="center">
-  <!-- 기관 로고 -->
-  <img src="images/minpre.png" height="35">
-  <img src="images/mmarn.png" height="25">
+  <img src="images/minpre.png" height="30">
+  <img src="images/mmarn.png" height="30">
   <img src="images/korea.png" height="30">
   <img src="images/koica.png" height="25">
-  <img src="images/knps.png" height="25">
-  <img src="images/gdc.png" height="25">
+  <img src="images/knps.png" height="30">
+  <img src="images/gdc.png" height="30">
 </p>
 
 Python 3.13.6
