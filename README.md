@@ -12,6 +12,16 @@
   <img src="images/gdc.png" height="30">
 </p>
 
+---
+
+# Práctica de uso de datos en Python
+## Análisis y Visualización de Datos Climáticos (Avanzado)  
+**Fechas:** Del 18 al 19 de nov. de 2025  
+**Lugar:** Aula 109 del Edificio 2  
+
+---
+
+
 Python 3.13.6
 https://www.python.org/ftp/python/3.13.6/python-3.13.6-amd64.exe
 
