@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="images/minpre.png" height="30">
+  <img src="images/minpre.png" height="35">
   <img src="images/mmarn.png" height="30">
   <img src="images/korea.png" height="30">
   <img src="images/koica.png" height="25">
